@@ -1,4 +1,4 @@
-name: Clang Tests
+name: Clangd Tests
 
 permissions:
   contents: read
